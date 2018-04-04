@@ -1,0 +1,16 @@
+
+// 6. Import the rest of Bulma
+//@import "..\node_modules\bulma";
+
+//$font-stack:    Helvetica, sans-serif;
+$primary-color: #ddd;
+
+.pageHeader {
+  //font: 100% $font-stack;
+  background-color: $primary-color;
+}
+
+.footer {
+    //font: 100% $font-stack;
+    background-color: $primary-color;
+  }
