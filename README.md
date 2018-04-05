@@ -90,3 +90,6 @@ sass .\app\styles\app.scss .\app\styles\app.css
 
 //add new routes (pages)
 ember generate route routeName
+
+## FONT AWESOME
+https://fontawesome.com/icons?d=gallery
