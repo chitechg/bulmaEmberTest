@@ -11,12 +11,14 @@ You will need the following things properly installed on your computer.
 * [Node.js](https://nodejs.org/) (with npm)
 * [Ember CLI](https://ember-cli.com/)
 * [Google Chrome](https://google.com/chrome/)
+* [Bulma](https://bulma.io/)
 
 ## Installation
 
 * `git clone <repository-url>` this repository
 * `cd bulma-ember-test`
 * `npm install`
+* `npm install bulma`
 
 ## Running / Development
 
