@@ -1,7 +1,3 @@
-
-// 6. Import the rest of Bulma
-//@import "..\node_modules\bulma";
-
 //$font-stack:    Helvetica, sans-serif;
 $primary-color: #ddd;
 
@@ -13,4 +9,9 @@ $primary-color: #ddd;
 .footer {
     //font: 100% $font-stack;
     background-color: $primary-color;
-  }
+}
+
+
+$navbar-height: 5.0rem;
+
+@import "../../node_modules/bulma/bulma.sass";
